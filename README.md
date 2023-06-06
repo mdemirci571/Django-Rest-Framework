@@ -2,7 +2,6 @@
 
 ## Nice to have VSCode Extentions:
 - Djaneiro - Django Snippets
-- 
 ## Needs:
 - Python, add the path environment variable
 - pip
@@ -20,9 +19,5 @@
 - PrimaryKeyRelatedField
 - Serializer Fields
 - read_only
-
-
-2 / 14
-
-write_only
-Nested Serializer
+- write_only
+- Nested Serializer
